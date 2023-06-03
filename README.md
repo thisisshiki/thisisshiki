@@ -11,6 +11,17 @@ thisisshiki
 
 🌱 I’m currently learning UX Design / Web Development
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
 <!--
 **thisisshiki/thisisshiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
