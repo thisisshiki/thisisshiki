@@ -9,6 +9,15 @@
 🔭 I am a UX student, was a Linux sysAdmin.
 🌱 I’m currently learning Web Development.
 
+My skills:
+Development: 
+Python, JavaScript, HTML, CSS, Tailwind CSS, Linux Shell, React, Git, VS Code, Linux, Windows, Webpack, Vite, SQL
+Design:
+Figma, Photoshop, Procreate
+Learning:
+Node.js, TypeScript, Jest
+
+
 <details>
 <summary>My top languages</summary>
 
