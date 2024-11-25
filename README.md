@@ -10,6 +10,7 @@
 🌱 I’m currently learning Web Development.
 
 My skills:
+
 Development: 
 Python, JavaScript, HTML, CSS, Tailwind CSS, Linux Shell, React, Git, VS Code, Linux, Windows, Webpack, Vite, SQL
 
