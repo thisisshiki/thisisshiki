@@ -12,13 +12,13 @@
 My skills:
 
 Development: 
-Python, JavaScript, HTML, CSS, Tailwind CSS, Linux Shell, React, Git, VS Code, Linux, Windows, Webpack, Vite, SQL
+Python, JavaScript, HTML, CSS, Tailwind CSS, Linux Shell, React, Node.js, TypeScript, Git, Webpack, Vite, SQL
 
 Design:
 Figma, Photoshop, Procreate
 
 Learning:
-Node.js, TypeScript, Jest
+
 
 ---
 > If we pull together and commit ourselves, then we can push through anything.
