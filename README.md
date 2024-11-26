@@ -10,16 +10,13 @@
 
 🌱 I’m currently learning Web Development.
 
-My skills:
+⚡ My skills:
 
 Development: 
 Python, JavaScript, HTML, CSS, Tailwind CSS, Linux Shell, React, Node.js, TypeScript, Git, Webpack, Vite, SQL
 
 Design:
 Figma, Photoshop, Procreate
-
-Learning:
-
 
 ---
 > If we pull together and commit ourselves, then we can push through anything.
